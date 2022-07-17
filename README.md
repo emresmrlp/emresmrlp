@@ -1,6 +1,5 @@
-hi.
----
-```
+
+```java
 public class MyInformation(){
   String full-name = "Yunus Emre Can Sümeralp";
   String location = "Istanbul, Turkey"
