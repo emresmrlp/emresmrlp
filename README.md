@@ -17,6 +17,6 @@ contact information
 
 my mentor and brother
 ---
-<a href="https://ibrahimsumeralp.com">İbrahim Ramazan Sümeralp</a>
+<a href="https://ibrahimsumeralp.com">ibrahim ramazan sümeralp (19.02.1995 - 18.06.2022)</a>
 
 <a href="https://ibrahimsumeralp.com"><img src="https://i.hizliresim.com/evmy0lk.jpg" width="300" height="200"/></a>
