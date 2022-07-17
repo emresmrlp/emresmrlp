@@ -1,5 +1,7 @@
-hi.  (<a href="https://ibrahimsumeralp.com">:black_heart:</a>)
+hi.
 ---
+<a href="https://ibrahimsumeralp.com">my mentor and my brother (İbrahim Ramazan Sümeralp)</a>
+
 ```
 public class MyInformation(){
   String full-name = "Yunus Emre Can Sümeralp";
