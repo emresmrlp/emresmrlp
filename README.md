@@ -1,8 +1,16 @@
-:telescope: k
+hi.  (<a href="https://ibrahimsumeralp.com">:black_heart:</a>)
+---
+```
+public class MyInformation(){
+  String full-name = "Yunus Emre Can Sümeralp";
+  String string-location = "Istanbul, Turkey"
+  String mail = "emresmrlp@gmail.com"
+  int age = 18;
+}
+```
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/emresmrlp/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-<img src="https://komarev.com/ghpvc/?username=emresmrlp&style=flat-square&color=blue" alt=""/>
+contact information
+---
+
+<a href="mailto:name@email.com">![](https://img.shields.io/badge/Gmail-emresmrlp@gmail.com-red)</a> 
+<a href="https://linkedin.com/in/emresmrlp">![](https://img.shields.io/badge/Linkedin-emresmrlp-blue)</a>
