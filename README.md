@@ -1,7 +1,5 @@
 hi.
 ---
-<a href="https://ibrahimsumeralp.com">my mentor and my brother (İbrahim Ramazan Sümeralp)</a>
-
 ```
 public class MyInformation(){
   String full-name = "Yunus Emre Can Sümeralp";
@@ -16,3 +14,8 @@ contact information
 
 <a href="mailto:name@email.com">![](https://img.shields.io/badge/Gmail-emresmrlp@gmail.com-red)</a> 
 <a href="https://linkedin.com/in/emresmrlp">![](https://img.shields.io/badge/Linkedin-emresmrlp-blue)</a>
+
+my mentor and brother
+---
+
+<a href="https://ibrahimsumeralp.com"><img src="https://i.hizliresim.com/evmy0lk.jpg" width="300" height="200"/></a>
