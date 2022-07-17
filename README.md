@@ -3,7 +3,7 @@ hi.
 ```
 public class MyInformation(){
   String full-name = "Yunus Emre Can Sümeralp";
-  String string-location = "Istanbul, Turkey"
+  String location = "Istanbul, Turkey"
   String mail = "emresmrlp@gmail.com"
   int age = 18;
 }
