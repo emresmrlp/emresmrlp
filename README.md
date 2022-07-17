@@ -19,4 +19,4 @@ my mentor and brother :black_heart:
 ---
 <a href="https://ibrahimsumeralp.com"><i>ibrahim ramazan sümeralp (19.02.1995 - 18.06.2022)</i></a>
 
-<a href="https://ibrahimsumeralp.com"><img src="https://i.hizliresim.com/evmy0lk.jpg" width="280" height="200"/></a>
+<a href="https://ibrahimsumeralp.com"><img src="https://i.hizliresim.com/evmy0lk.jpg" width="300" height="200"/></a>
