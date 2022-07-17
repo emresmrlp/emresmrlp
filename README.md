@@ -17,5 +17,6 @@ contact information
 
 my mentor and brother
 ---
+<a href="https://ibrahimsumeralp.com">İbrahim Ramazan Sümeralp</a>
 
 <a href="https://ibrahimsumeralp.com"><img src="https://i.hizliresim.com/evmy0lk.jpg" width="300" height="200"/></a>
