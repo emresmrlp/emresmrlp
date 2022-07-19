@@ -1,9 +1,9 @@
 
 ```java
 public class MyInformation(){
-  String full-name = "Yunus Emre Can Sümeralp";
-  String location = "Istanbul, Turkey"
-  String mail = "emresmrlp@gmail.com"
+  String fullName = "Yunus Emre Can Sümeralp";
+  String location = "Istanbul, Turkey";
+  String mail = "emresmrlp@gmail.com";
   int age = 18;
 }
 ```
