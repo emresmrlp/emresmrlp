@@ -1,13 +1,3 @@
-
-```java
-public class MyInformation(){
-  String fullName = "Yunus Emre Can Sümeralp";
-  String location = "Istanbul, Turkey";
-  String mail = "emresmrlp@gmail.com";
-  int age = 18;
-}
-```
-
 contact information
 ---
 
