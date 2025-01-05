@@ -11,5 +11,6 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
 <a href ="https://github.com/emresmrlp/42-Printf">![ft_printfn](https://github.com/user-attachments/assets/d5c29a19-5aa9-44b9-9fed-1c32c5eff323)</a>
 <a href="https://github.com/emresmrlp/42-Get-Next-Line">![get_next_linen](https://github.com/user-attachments/assets/f30339a3-6ef7-47c6-9256-9f939ed8c0d4)</a>
 ![born2berootm](https://github.com/user-attachments/assets/934aaac5-e3f4-49b3-bcfe-5063d2447de4)
+<a href="https://github.com/emresmrlp/42-MiniTalk">![minitalkm](https://github.com/user-attachments/assets/971cc282-d42f-4ab4-8c4a-55061e97aa4d)</a>
 
 ##### (_Thank you for everything ♥ <a href="https://ibrahimsumeralp.com">İbrahim Ramazan Sümeralp</a>_)
