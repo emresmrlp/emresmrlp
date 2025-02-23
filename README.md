@@ -62,7 +62,7 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/emresmrlp/get-next-line">
+      <a href="https://github.com/emresmrlp/get_next_line">
         <img src="https://github.com/user-attachments/assets/f30339a3-6ef7-47c6-9256-9f939ed8c0d4" alt="get_next_line" width="100">
       </a>
     </td>
