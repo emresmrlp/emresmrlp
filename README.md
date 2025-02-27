@@ -24,18 +24,6 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/emresmrlp/so-long">
-        <img src="https://github.com/user-attachments/assets/074e5279-0904-4b85-8533-b34cfe868929" alt="so_long" width="100">
-      </a>
-    </td>
-    <td>
-      <strong>so_long</strong> - Our first 2D game using the MiniLibX library. I developed this game with a Structured Entity Management architecture, and it took me about two weeks to complete.
-    </td>
-    <td>
-      <strong>125/125</strong>
-    </td>
-  <tr>
-    <td>
       <a href="https://github.com/emresmrlp/libft">
         <img src="https://github.com/user-attachments/assets/986692d8-12d9-4c44-a7ed-eafd07c208c3" alt="libft" width="100">
       </a>
@@ -73,6 +61,18 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
       <strong>100/125</strong>
     </td>
   </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/emresmrlp/so-long">
+        <img src="https://github.com/user-attachments/assets/7289017d-0ac9-4384-9bb6-44aa0d501746" alt="so_long" width="100">
+      </a>
+    </td>
+    <td>
+      <strong>so_long</strong> - Our first 2D game using the MiniLibX library. I developed this game with a Structured Entity Management architecture.
+    </td>
+    <td>
+      <strong>125/125</strong>
+    </td>
   </tr>
 </table>
 
