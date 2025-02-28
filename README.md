@@ -24,6 +24,32 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
   </tr>
   <tr>
     <td>
+      <a href="https://github.com/emresmrlp">
+        <img src="https://github.com/user-attachments/assets/a9d4b12c-3c0d-428c-875a-84c529fb6783" alt="born2beroot" width="100">
+      </a>
+    </td>
+    <td>
+      <strong>Born2BeRoot</strong> - I set up a virtual machine using VirtualBox and installed WordPress to create a website. Through this project, I learned how to install and use SSH, FTP, AppArmor, and CronTab. I also configured the sudoers file, created users and user groups, and managed user passwords. Additionally, I explored the differences between Ubuntu and other operating systems.
+    </td>
+    <td>
+      <strong>125/125</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/emresmrlp/so-long">
+        <img src="https://github.com/user-attachments/assets/7289017d-0ac9-4384-9bb6-44aa0d501746" alt="so_long" width="100">
+      </a>
+    </td>
+    <td>
+      <strong>so_long</strong> - Our first 2D game using the MiniLibX library. I developed this game with a Structured Entity Management architecture.
+    </td>
+    <td>
+      <strong>110/125</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://github.com/emresmrlp/libft">
         <img src="https://github.com/user-attachments/assets/986692d8-12d9-4c44-a7ed-eafd07c208c3" alt="libft" width="100">
       </a>
@@ -59,19 +85,6 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
     </td>
     <td>
       <strong>100/125</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/emresmrlp/so-long">
-        <img src="https://github.com/user-attachments/assets/7289017d-0ac9-4384-9bb6-44aa0d501746" alt="so_long" width="100">
-      </a>
-    </td>
-    <td>
-      <strong>so_long</strong> - Our first 2D game using the MiniLibX library. I developed this game with a Structured Entity Management architecture.
-    </td>
-    <td>
-      <strong>125/125</strong>
     </td>
   </tr>
 </table>
