@@ -11,12 +11,12 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
 <table>
   <tr>
     <td>
-      <a href="https://github.com/emresmrlp/minitalk">
-        <img src="https://github.com/user-attachments/assets/971cc282-d42f-4ab4-8c4a-55061e97aa4d" alt="minitalk" width="100">
+      <a href="https://github.com/emresmrlp">
+        <img src="https://github.com/user-attachments/assets/a9d4b12c-3c0d-428c-875a-84c529fb6783" alt="born2beroot" width="100">
       </a>
     </td>
     <td>
-      <strong>minitalk</strong> - In this project, we send a string from the client to the server using Unix signals, which helped us improve our skills in bit manipulation and the signal.h library.
+      <strong>Born2BeRoot</strong> - I set up a virtual machine using VirtualBox and installed WordPress to create a website. Through this project, I learned how to install and use SSH, FTP, AppArmor, and CronTab. I also configured the sudoers file, created users and user groups, and managed user passwords. Additionally, I explored the differences between Ubuntu and other operating systems.
     </td>
     <td>
       <strong>125/125</strong>
@@ -24,12 +24,12 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/emresmrlp">
-        <img src="https://github.com/user-attachments/assets/a9d4b12c-3c0d-428c-875a-84c529fb6783" alt="born2beroot" width="100">
+      <a href="https://github.com/emresmrlp/minitalk">
+        <img src="https://github.com/user-attachments/assets/971cc282-d42f-4ab4-8c4a-55061e97aa4d" alt="minitalk" width="100">
       </a>
     </td>
     <td>
-      <strong>Born2BeRoot</strong> - I set up a virtual machine using VirtualBox and installed WordPress to create a website. Through this project, I learned how to install and use SSH, FTP, AppArmor, and CronTab. I also configured the sudoers file, created users and user groups, and managed user passwords. Additionally, I explored the differences between Ubuntu and other operating systems.
+      <strong>minitalk</strong> - In this project, we send a string from the client to the server using Unix signals, which helped us improve our skills in bit manipulation and the signal.h library.
     </td>
     <td>
       <strong>125/125</strong>
@@ -50,12 +50,12 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/emresmrlp/libft">
-        <img src="https://github.com/user-attachments/assets/986692d8-12d9-4c44-a7ed-eafd07c208c3" alt="libft" width="100">
+      <a href="https://github.com/emresmrlp/push_swap">
+        <img src="https://github.com/user-attachments/assets/575e1b09-a2fc-4f8e-8526-5221a08dcab5" alt="get_next_line" width="100">
       </a>
     </td>
     <td>
-      <strong>Libft</strong> - Aims to create a library for use in our future projects.
+      <strong>push_swap</strong> - A program that sorts integer arrays using two stacks and the Türk sorting algorithm with cost calculation.
     </td>
     <td>
       <strong>100/125</strong>
@@ -82,6 +82,19 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
     </td>
     <td>
       <strong>get_next_line</strong> - This project creates a function that reads a new line each time it is called.
+    </td>
+    <td>
+      <strong>100/125</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/emresmrlp/libft">
+        <img src="https://github.com/user-attachments/assets/986692d8-12d9-4c44-a7ed-eafd07c208c3" alt="libft" width="100">
+      </a>
+    </td>
+    <td>
+      <strong>Libft</strong> - Aims to create a library for use in our future projects.
     </td>
     <td>
       <strong>100/125</strong>
