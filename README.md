@@ -11,6 +11,20 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
 <table>
   <tr>
     <td>
+      <a href="https://github.com/emresmrlp/cpp">
+        <img src="https://github.com/user-attachments/assets/fcf9a016-18ed-499c-8f1a-11f23b1a8a7e" alt="cpp" width="100">
+      </a>
+    </td>
+    <td>
+      <strong>C++ Projects</strong> - C++ starter projects, click the image for details.
+    </td>
+    <td>
+      <strong>100/100</strong>
+    </td>
+  </tr>
+  
+  <tr>
+    <td>
       <a href="https://github.com/emresmrlp">
         <img src="https://github.com/user-attachments/assets/a9d4b12c-3c0d-428c-875a-84c529fb6783" alt="born2beroot" width="100">
       </a>
@@ -46,6 +60,32 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
     </td>
     <td>
       <strong>110/125</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/emresmrlp/philosophers">
+        <img src="https://github.com/user-attachments/assets/1f648ddf-2f97-40c7-ac0c-4e38fcf33d3f" alt="philosophers" width="100">
+      </a>
+    </td>
+    <td>
+      <strong>philosophers</strong> - This project explores multithreading and synchronization using mutexes to solve the classical Dining Philosophers Problem.
+    </td>
+    <td>
+      <strong>100/125</strong>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/emresmrlp/minishell">
+        <img src="https://github.com/user-attachments/assets/defc0fa6-f060-4efe-aa0b-96534ad723ae" alt="minishell" width="200">
+      </a>
+    </td>
+    <td>
+      <strong>minishell</strong> - It is a simple shell implementation in C that mimics basic bash functionalities.
+    </td>
+    <td>
+      <strong>100/125</strong>
     </td>
   </tr>
   <tr>
