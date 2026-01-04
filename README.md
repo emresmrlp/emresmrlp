@@ -1,5 +1,5 @@
 ## Who am I?
-Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on software development projects and studying software at <a href="https://42istanbul.com.tr">42 Türkiye</a>.
+Hi, I’m <a href="https://sumeralp.com">Yunus Emre</a>! I’m working on software development projects and studying software at <a href="https://42istanbul.com.tr">42 Türkiye</a>.
 - Below, you can find my 42 Türkiye projects as well as other personal projects!
 
 ## Contact Information
