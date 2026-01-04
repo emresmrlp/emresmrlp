@@ -3,141 +3,35 @@ Hi, I’m <a href="https://sumeralp.online">Yunus Emre</a>! I’m working on sof
 - Below, you can find my 42 Türkiye projects as well as other personal projects!
 
 ## Contact Information
-<a href="mailto:name@email.com">![](https://img.shields.io/badge/Gmail-emresmrlp@gmail.com-red)</a> 
-<a href="https://linkedin.com/in/emresmrlp">![](https://img.shields.io/badge/Linkedin-emresmrlp-blue)</a>
+<a href="https://linkedin.com/in/emresmrlp">![](https://badgen.net/badge/LinkedIn/emresmrlp/blue)</a>
+<a href="mailto:name@email.com">![](https://badgen.net/badge/Gmail/emresmrlp@gmail.com/red)</a>
+<a href="https://www.instagram.com/emresmrlp/">![](https://badgen.net/badge/Instagram/emresmrlp/green)</a>
+<a href="https://github.com/emresmrlp">![](https://badgen.net/badge/GitHub/emresmrlp/black?icon=github)</a>
 
 ## My 42 Türkiye Projects
-
 <table>
   <tr>
     <td>
-      <a href="https://github.com/emresmrlp/cpp">
-        <img src="https://github.com/user-attachments/assets/fcf9a016-18ed-499c-8f1a-11f23b1a8a7e" alt="cpp" width="100">
+      <a href="https://github.com/emresmrlp/42-Piscine">
+        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/volunteerm.png?raw=true" alt="cpp" width="100">
       </a>
     </td>
     <td>
-      <strong>C++ Projects</strong> - C++ starter projects, click the image for details.
-    </td>
-    <td>
-      <strong>100/100</strong>
-    </td>
-  </tr>
-  
-  <tr>
-    <td>
-      <a href="https://github.com/emresmrlp">
-        <img src="https://github.com/user-attachments/assets/a9d4b12c-3c0d-428c-875a-84c529fb6783" alt="born2beroot" width="100">
-      </a>
-    </td>
-    <td>
-      <strong>Born2BeRoot</strong> - I set up a virtual machine using VirtualBox and installed WordPress to create a website. Through this project, I learned how to install and use SSH, FTP, AppArmor, and CronTab. I also configured the sudoers file, created users and user groups, and managed user passwords. Additionally, I explored the differences between Ubuntu and other operating systems.
-    </td>
-    <td>
-      <strong>125/125</strong>
+      <strong>42 Piscine</strong><br>
+      Intensive C fundamentals: memory, pointers, algorithms, UNIX basics.<br>
+      <em>Click the badge to explore all Piscine projects.</em>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/emresmrlp/minitalk">
-        <img src="https://github.com/user-attachments/assets/971cc282-d42f-4ab4-8c4a-55061e97aa4d" alt="minitalk" width="100">
+      <a href="https://github.com/emresmrlp/42-Cursus">
+        <img src="https://github.com/ayogun/42-project-badges/blob/main/badges/evaluationm.png?raw=true" alt="cpp" width="100">
       </a>
     </td>
     <td>
-      <strong>minitalk</strong> - In this project, we send a string from the client to the server using Unix signals, which helped us improve our skills in bit manipulation and the signal.h library.
-    </td>
-    <td>
-      <strong>125/125</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/emresmrlp/so-long">
-        <img src="https://github.com/user-attachments/assets/7289017d-0ac9-4384-9bb6-44aa0d501746" alt="so_long" width="100">
-      </a>
-    </td>
-    <td>
-      <strong>so_long</strong> - Our first 2D game using the MiniLibX library. I developed this game with a Structured Entity Management architecture.
-    </td>
-    <td>
-      <strong>110/125</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/emresmrlp/philosophers">
-        <img src="https://github.com/user-attachments/assets/1f648ddf-2f97-40c7-ac0c-4e38fcf33d3f" alt="philosophers" width="100">
-      </a>
-    </td>
-    <td>
-      <strong>philosophers</strong> - This project explores multithreading and synchronization using mutexes to solve the classical Dining Philosophers Problem.
-    </td>
-    <td>
-      <strong>100/125</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/emresmrlp/minishell">
-        <img src="https://github.com/user-attachments/assets/defc0fa6-f060-4efe-aa0b-96534ad723ae" alt="minishell" width="200">
-      </a>
-    </td>
-    <td>
-      <strong>minishell</strong> - It is a simple shell implementation in C that mimics basic bash functionalities.
-    </td>
-    <td>
-      <strong>100/125</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/emresmrlp/push_swap">
-        <img src="https://github.com/user-attachments/assets/575e1b09-a2fc-4f8e-8526-5221a08dcab5" alt="get_next_line" width="100">
-      </a>
-    </td>
-    <td>
-      <strong>push_swap</strong> - A program that sorts integer arrays using two stacks and the Türk sorting algorithm with cost calculation.
-    </td>
-    <td>
-      <strong>100/125</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/emresmrlp/ft_printf">
-        <img src="https://github.com/user-attachments/assets/d5c29a19-5aa9-44b9-9fed-1c32c5eff323" alt="ft_printf" width="100">
-      </a>
-    </td>
-    <td>
-      <strong>ft_printf</strong> - This project creates a custom printf function.
-    </td>
-    <td>
-      <strong>100/125</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/emresmrlp/get_next_line">
-        <img src="https://github.com/user-attachments/assets/f30339a3-6ef7-47c6-9256-9f939ed8c0d4" alt="get_next_line" width="100">
-      </a>
-    </td>
-    <td>
-      <strong>get_next_line</strong> - This project creates a function that reads a new line each time it is called.
-    </td>
-    <td>
-      <strong>100/125</strong>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/emresmrlp/libft">
-        <img src="https://github.com/user-attachments/assets/986692d8-12d9-4c44-a7ed-eafd07c208c3" alt="libft" width="100">
-      </a>
-    </td>
-    <td>
-      <strong>Libft</strong> - Aims to create a library for use in our future projects.
-    </td>
-    <td>
-      <strong>100/125</strong>
+      <strong>42 Common Core</strong><br>
+      Advanced system-level projects: C, C++, OOP, Docker, networking.<br>
+      <em>Click the badge to view all Common Core projects.</em>
     </td>
   </tr>
 </table>
