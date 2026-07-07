@@ -1,6 +1,7 @@
 ## Hi, I’m <a href="https://sumeralp.com">Yunus Emre</a>!
-I’m working on software development projects and studying software at <a href="https://42istanbul.com.tr">42 Türkiye</a>.
-- Below, you can find my 42 Türkiye projects as well as other personal projects!
+I'm a software developer currently developing my skills in object-oriented programming and DevOps.
+
+I'm studying at <a href="https://42turkiye.com.tr">42 Türkiye</a>, where I continue building projects and strengthening my software fundamentals.
 
 ## Contact
 <a href="https://linkedin.com/in/emresmrlp">![](https://badgen.net/badge/LinkedIn/emresmrlp/blue)</a>
